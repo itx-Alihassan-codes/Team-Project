@@ -1,2 +1,0 @@
-# Team-Project
-BE CONSISTENT
